@@ -5,7 +5,7 @@
 ### Senior Full-Stack Developer | AI/ML Engineer | AWS Certified
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+8%2B+Years;AI+%2F+ML+Engineer+%7C+RAG+%26+LangChain;MEAN+Stack+%7C+Python+%7C+FastAPI;Building+systems+serving+100K%2B+users" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+9%2B+Years;AI+%2F+ML+Engineer+%7C+RAG+%26+LangChain;MEAN+Stack+%7C+Python+%7C+FastAPI;Building+systems+serving+100K%2B+users" alt="Typing SVG" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 ## About me
 
-Full-Stack Developer with **8+ years** of enterprise experience designing scalable web platforms and AI-powered systems. Currently at **Cisco Systems**, building automation and intelligent operations tools that serve **100K+ daily transactions**.
+Full-Stack Developer with **9+ years** of enterprise experience designing scalable web platforms and AI-powered systems. Currently at **Cisco Systems**, building automation and intelligent operations tools that serve **100K+ daily transactions**.
 
 Previously delivered high-impact solutions at **Infosys** and **Mindtree** for clients in banking, financial services, and HR tech.
 
@@ -154,7 +154,7 @@ Dashboard for financial advisors to manage client portfolios.
 
 <div align="center">
 
-![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-00C853?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-9%2B%20Years-00C853?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects-20%2B%20Delivered-2196F3?style=for-the-badge)
 ![Users](https://img.shields.io/badge/Users-100K%2B%20Served-FF6F00?style=for-the-badge)
 ![Award](https://img.shields.io/badge/Awards-4%20Won-9C27B0?style=for-the-badge)
