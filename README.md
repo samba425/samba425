@@ -254,5 +254,5 @@ Senior Full-Stack Developer with **9+ years** of enterprise experience at **Cisc
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=100&section=footer" width="100%" />
 
 <div align="center">
-<sub><strong>Hyderabad, India</strong> &nbsp;·&nbsp; Open to collaboration &nbsp;·&nbsp; <a href="mailto:asiva325@gmail.com">asiva325@gmail.com</a></sub>
+<sub><strong>Visakhapatnam, India</strong> &nbsp;·&nbsp; Open to collaboration &nbsp;·&nbsp; <a href="mailto:asiva325@gmail.com">asiva325@gmail.com</a> &nbsp;·&nbsp; <a href="https://samba425.github.io/portfolio/">Portfolio</a></sub>
 </div>
