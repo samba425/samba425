@@ -4,11 +4,8 @@
 
 ### Senior Full-Stack Developer | AI/ML Engineer | AWS Certified
 
-<br/>
 
-```
-8+ Years Experience    ·    20+ Projects Delivered    ·    100K+ Users Served
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+8%2B+Years;AI+%2F+ML+Engineer+%7C+RAG+%26+LangChain;MEAN+Stack+%7C+Python+%7C+FastAPI;Building+systems+serving+100K%2B+users" alt="Typing SVG" />
 
 <br/>
 
@@ -153,22 +150,48 @@ Dashboard for financial advisors to manage client portfolios.
 
 <br/>
 
-## GitHub stats
+## Impact at a glance
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samba425&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samba425&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
+
+![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-00C853?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-20%2B%20Delivered-2196F3?style=for-the-badge)
+![Users](https://img.shields.io/badge/Users-100K%2B%20Served-FF6F00?style=for-the-badge)
+![Award](https://img.shields.io/badge/Awards-4%20Won-9C27B0?style=for-the-badge)
+
 </div>
 
 <br/>
+
+## GitHub activity
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=samba425&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub streak" />
 </div>
 
+<br/>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samba425&theme=github_dark" alt="Contribution graph" />
+</div>
+
+<br/>
+
+<div align="center">
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samba425&theme=github_dark" alt="Stats" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samba425&theme=github_dark" alt="Top languages by repo" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samba425&theme=github_dark" alt="Top languages by commit" />
+</div>
+
 ---
 
 <div align="center">
-<sub>Based in Hyderabad, India · Open to collaboration · <a href="mailto:asiva325@gmail.com">asiva325@gmail.com</a></sub>
+
+**Hyderabad, India** · Open to collaboration
+
+[![Email](https://img.shields.io/badge/asiva325%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asiva325@gmail.com)
+[![Portfolio](https://img.shields.io/badge/samba425.github.io%2Fportfolio-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://samba425.github.io/portfolio)
+
 </div>
